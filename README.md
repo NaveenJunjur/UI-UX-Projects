@@ -27,7 +27,7 @@ In the EV Station App, developed during my virtual internship, I honed my skills
 - Prototyping
 - Interactive Design
 
-### *Note: Took the inspiration from the Behance, Dribbble, Awwwards, and made use of Unsplash, Iconify, Iconduck, etc.*
+#### **Note: Took the inspiration from the Behance, Dribbble, Awwwards, and made use of Unsplash, Iconify, Iconduck, etc.**
 
 ## Contact Information
 
