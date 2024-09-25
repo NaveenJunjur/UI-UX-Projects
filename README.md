@@ -17,6 +17,9 @@ In the Chalo Mobile App Redesign project, I focused on enhancing user experience
 ### [5. EV Station App🔌](https://github.com/NaveenJunjur/UI-UX-Projects/tree/main/05-EV%20Station%20App)
 In the EV Station App, developed during my virtual internship, I honed my skills in wireframing and integrating maps for enhanced functionality. I created both low-fidelity and high-fidelity prototypes to effectively illustrate and refine the user experience. This project demonstrates my ability to develop comprehensive, user-centered designs from concept to detailed execution.
 
+### [6. Pet Adoption App🐶](https://github.com/NaveenJunjur/UI-UX-Projects/tree/main/06-Pet%20Adoption%20App)
+This app is designed to streamline the pet adoption process, providing users with an intuitive interface to find, adopt, and support animals in need. Key features include integrated maps for locating nearby shelters, a donation system to support animal welfare, and a step-by-step guide to the adoption process. The app focuses on enhancing user experience by ensuring smooth navigation and emotional engagement with modern UI/UX principles.
+
 ## Technologies and Skills Used
 - Figma
 - Adobe Illustrator
